@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+#include <string>
+#include <iostream>
+
+void main(){
+
+setlocale(LC_ALL,"");}
+
+using namespace std;
+
+int
+float
+double
+fabs
+abs
+&& = and
+|| = or
+if
+else
+
+#include <time.h>
+srand (unsigned)
